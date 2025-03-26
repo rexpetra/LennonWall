@@ -4,22 +4,22 @@ body {
 }
 
 .memo {
-	background-color: #f5e37a;
-	width: 200px;
-	height: 200px;
-    box-shadow: 10px 5px 5px black;
+	background-color: #95e92f;
+	width: 180px;
+	height: 180px;
+    box-shadow: 10px 5px 5px rgba(171, 77, 77, 0.616);
 }
 
 #input-memo-container {
-	padding: 20px 10px;
-	background-color: #871313;
+	padding: 15px 9px;
+	background-color: #e896de;
 	display: flex;
 	align-items: center;
 	flex-direction: column;
 }
 
 #memos-container {
-	padding: 20px 0;
+	padding: 22px 5px;
 	display: flex;
 }
 
@@ -50,7 +50,7 @@ input[type="file"] {
 }
 
 .bi {
-    background-color: white;
+    background-color: rgb(247, 239, 15);
     padding: 10px;
     border-radius: 100%;
 }
